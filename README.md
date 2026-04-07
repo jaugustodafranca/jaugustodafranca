@@ -1,25 +1,27 @@
-# > Hey there 👨🏻‍💻
+# Hey, I'm José
 
-<!-- Shields -->
+Tech Lead Engineer at **[AvantStay](https://avantstay.com)** and founder of **[Zaintech](https://zaintech.com.br)**.
 
-[![GitHub jaugustodafranca](https://img.shields.io/github/followers/jaugustodafranca?label=follow&style=social)][2]
-[![Gitlab: jaugustodafranca](<https://img.shields.io/badge/-j.franca-rgb(252%20163%2038)?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/j.franca>)][1]
-[![Gitlab: jaugustodafranca](<https://img.shields.io/badge/-jaugustodafranca-rgb(252%20163%2038)?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/jaugustodafranca>)][4]
-[![Linkedin: jaugustodafranca](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaugustodafranca/)][3]
+Based in Florianópolis, Brazil. Building and scaling web and mobile products for the past 6+ years.
 
-Hi, I’m José!
+### What I do
 
-Software Engineer | 6+ Years Experience with React, Next.js, Node.js, and GraphQL
+At AvantStay, I lead the operations engineering team — driving architecture decisions, mentoring engineers, and shipping AI/LLM-powered tools that automate real workflows. Before that, I built internal systems with React, Next.js, Node.js, and GraphQL, and a React Native app used by 2,000+ vendors.
 
-Software engineer with over six years of experience in front-end development using JavaScript, TypeScript, React, and Next.js. Proficient with tools, libraries, and frameworks such as Material UI, Semantic UI, Tailwind, Redux, MobX, Sentry, Datadog, Jest, Cypress and others.
+On the side, I run **Zaintech**, a software consultancy that takes on full project delivery or embeds senior engineers into client teams.
 
-Over time, my work has expanded to mobile development with React Native (Expo) and back-end services using Node.js, Express, and GraphQL (Apollo).
+### A few things I've built
 
-I approach every project as a problem solver, focused on delivering reliable and well-structured solutions.
+- LLM service that evaluates guest reviews and auto-generates maintenance work orders
+- Migrated services off Salesforce to a custom platform, saving $250K/year
+- NFT marketplace on the Flow Blockchain at Popstand
+- React Native (Expo) mobile app serving 2,000+ field vendors
 
-<!-- Links -->
+### Tech I reach for
 
-[1]: https://gitlab.com/j.franca
-[2]: https://github.com/jaugustodafranca
-[3]: https://www.linkedin.com/in/jaugustodafranca/
-[4]: https://gitlab.com/jaugustodafranca
+React, Next.js, React Native, Node.js, TypeScript, GraphQL, Apollo, Expo, Tailwind CSS, Jest, Cypress, Datadog, Sentry
+
+### Links
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaugustodafranca/)
+[![Zaintech](https://img.shields.io/badge/-zaintech.com.br-0C0F0A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHJ4PSIzIiBmaWxsPSIjQjVGRjdEIi8+PC9zdmc+&logoColor=white)](https://zaintech.com.br)
