@@ -1,25 +1,25 @@
 # Hey, I'm José
 
-Tech Lead Engineer at **[AvantStay](https://avantstay.com)** and founder of **[Zaintech](https://zaintech.com.br)**.
+Tech Lead Engineer at [AvantStay](https://avantstay.com) and founder of [Zaintech](https://zaintech.com.br).
 
-Based in Florianópolis, Brazil. Building and scaling web and mobile products for the past 6+ years.
+Based in Florianópolis, Brazil. I've been working with web and mobile since 2019.
 
 ### What I do
 
-At AvantStay, I lead the operations engineering team — driving architecture decisions, mentoring engineers, and shipping AI/LLM-powered tools that automate real workflows. Before that, I built internal systems with React, Next.js, Node.js, and GraphQL, and a React Native app used by 2,000+ vendors.
+I lead the operations engineering team at AvantStay. Most of my time goes into LLM tools that replace manual ops work, plus the usual tech lead work: architecture, code reviews, and mentoring. Before this I worked on our internal platforms with React, Next.js, Node, and GraphQL, and built the React Native app used by 2,000+ field vendors.
 
-On the side, I run **Zaintech**, a software consultancy that takes on full project delivery or embeds senior engineers into client teams.
+I also run Zaintech, a consultancy that builds full projects for clients or places senior engineers into teams that need more people.
 
 ### A few things I've built
 
-- LLM service that evaluates guest reviews and auto-generates maintenance work orders
-- Migrated services off Salesforce to a custom platform, saving $250K/year
-- NFT marketplace on the Flow Blockchain at Popstand
-- React Native (Expo) mobile app serving 2,000+ field vendors
+- An LLM service that reads guest reviews and opens maintenance work orders automatically
+- Replaced Salesforce with a custom platform, saving ~$250K/year
+- An NFT marketplace on the Flow blockchain at Popstand
+- A React Native (Expo) app used daily by 2,000+ field vendors
 
-### Tech I reach for
+### Stack
 
-React, Next.js, React Native, Node.js, TypeScript, GraphQL, Apollo, Expo, Tailwind CSS, Jest, Cypress, Datadog, Sentry
+TypeScript, React, Next.js, React Native, Node.js, GraphQL, Apollo, Expo, Tailwind CSS, Jest, Cypress, Datadog, Sentry
 
 ### Links
 
