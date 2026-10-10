@@ -15,7 +15,7 @@ I build web and mobile products, mostly software for operations teams. I've been
 Almost five years at [AvantStay](https://avantstay.com), first as a Senior Software Engineer and then as Tech Lead of the engineering team, working mostly with the operations side. Some of the work from there:
 
 - Developed and maintained the React Native app used by 2,000+ field vendors
-- Built an LLM service that reads guest reviews and opens maintenance work orders on its own
+- Built an LLM service that reads hundreds of guest reviews a day and turns them into maintenance requests
 - Was part of the team that moved operations off Salesforce, saving about $250K a year
 
 Earlier I worked on an NFL NFT marketplace on the Flow blockchain at Popstand, where I led one of the teams, and on client projects at Jungle Devs.
@@ -29,9 +29,9 @@ Earlier I worked on an NFL NFT marketplace on the Flow blockchain at Popstand, w
 
 ### Stack
 
-**Main:** TypeScript, JavaScript, React, Next.js, React Native, Expo, Node.js, GraphQL, Tailwind CSS
+**Main:** TypeScript, JavaScript, React, Next.js, React Native, Expo, Node.js, GraphQL
 
-**Also worked with:** Material UI, styled-components, Redux, MobX, Apollo, Hasura, Fastify, Prisma, Supabase, Electron, Jest, Cypress, Playwright, Vitest, Storybook, AWS, Vercel, Cloudflare Workers, Docker, GitHub Actions, GitLab CI, Datadog, Sentry, OpenAI, Claude and Gemini APIs
+**Also worked with:** Tailwind CSS, Material UI, styled-components, Redux, MobX, Apollo, Hasura, Fastify, Prisma, Supabase, Electron, Jest, Cypress, Playwright, Vitest, Storybook, AWS, Vercel, Cloudflare Workers, Docker, GitHub Actions, GitLab CI, Datadog, Sentry, OpenAI, Claude and Gemini APIs
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaugustodafranca/)
 [![Zaintech](https://img.shields.io/badge/-zaintech.com.br-0C0F0A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHJ4PSIzIiBmaWxsPSIjQjVGRjdEIi8+PC9zdmc+&logoColor=white)](https://zaintech.com.br)
